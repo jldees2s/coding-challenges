@@ -9,3 +9,6 @@ function hello() { return "hello edabit.com"}
 function FirstReverse(str) {  return str.split('').reverse().join('');}
 
 //Coding Challenge 4
+function LongestWord(sen) { 
+
+return sen; 
