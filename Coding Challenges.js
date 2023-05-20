@@ -25,3 +25,6 @@ function LongestWord(sen) {
 }
 
 //Coding Challenge 5
+function addUp(num) {
+    return (num * (num + 1))/2;
+}
